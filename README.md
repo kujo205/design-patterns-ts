@@ -13,7 +13,7 @@ List of patterns to learn
 
 Client code works with factories and products only through their abstract interfaces. This lets the client code work with any product variants, created by the factory object. You just create a new concrete factory class and pass it to the client code.
 
-### Abstract Factory. Check out example in `./patterns/creational/abstract-factory.ts`
+### Abstract Factory. Check out example in [here](./patterns/creational/abstract-factory.ts)
 
 
 ### Builder. Definition
@@ -21,35 +21,21 @@ Client code works with factories and products only through their abstract interf
 - [ ] [Builder](https://refactoring.guru/design-patterns/builder/typescript/example) -
   Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
-### Check out example in `./patterns/creational/builder.ts`
+### Check out example in [here](./patterns/creational/builder.ts)
 
-### Builder. Definition
 
-- [ ] [Builder](https://refactoring.guru/design-patterns/builder/typescript/example) -
-  Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
+## Behavorial patterns
 
-### Check out example in `./patterns/creational/builder.ts`
+### Strategy. Definition
 
-### Builder. Definition
+- [ ] [Strategy](https://refactoring.guru/design-patterns/strategy/typescript/example) -
+  Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
 
-- [ ] [Builder](https://refactoring.guru/design-patterns/builder/typescript/example) -
-  Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
+### Check out example in [here](./patterns/behavorial/strategy.ts)
 
-### Check out example in `./patterns/creational/builder.ts`
 
-### Builder. Definition
 
-- [ ] [Builder](https://refactoring.guru/design-patterns/builder/typescript/example) -
-  Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
-### Check out example in `./patterns/creational/builder.ts`
-
-### Builder. Definition
-
-- [ ] [Builder](https://refactoring.guru/design-patterns/builder/typescript/example) -
-  Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
-
-### Check out example in `./patterns/creational/builder.ts`
 
 ### Builder. Definition
 
