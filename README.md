@@ -35,6 +35,21 @@ Client code works with factories and products only through their abstract interf
 
 
 
+### Command. Definition
+
+- [ ] [Command](https://www.patterns.dev/vanilla/command-pattern/) -
+    With the Command Pattern, we can decouple objects that execute a certain task from the object that calls the method.
+
+
+### Check out example in [here](./patterns/behavorial/command.ts)
+
+
+
+
+
+
+
+
 
 
 ### Builder. Definition
@@ -42,4 +57,4 @@ Client code works with factories and products only through their abstract interf
 - [ ] [Builder](https://refactoring.guru/design-patterns/builder/typescript/example) -
   Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
-### Check out example in `./patterns/creational/builder.ts`
+### Check out example in [here](`./patterns/creational/builder.ts`)
